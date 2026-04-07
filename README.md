@@ -9,7 +9,9 @@ Since you can also define individual entities and options, this card is suitable
 
 <u>Large Card:</u>
 
-![Example card](./examples/Screenshot.png)
+<img width="564" height="708" alt="cardbig" src="https://github.com/user-attachments/assets/894d4e50-877b-4ad3-8970-ac17ef814bb7" />
+
+
 
 <u>Compact Card:</u>
 
