@@ -1,7 +1,7 @@
 {
-  "name": "Solar Storage Card",
+  "name": "Solar Storage Card-offline",
   "content_in_root": true,
-  "filename": "b2500d-card.js"
+  "filename": "b2500d-card-offline.js"
 }
 
 
