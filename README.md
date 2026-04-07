@@ -1,7 +1,7 @@
 [![hacs][hacs-default]][hacs-default-link] [![hacs][hacs-validate]][hacs-validate-link]
 
 
-# B2500D-Card | The Solar Storage Card
+# B2500D-Card | The Solar Storage Card (edited to work Local)
 
 A Home Assistant Custom Card for the Marstek B2500d storage system.
 
@@ -81,20 +81,9 @@ For this, use the `device` parameter.
 
 If entities have been renamed, this method won’t work. You can still pass individual entities manually (see *Parameters* section).
 
-### HACS
-#### Community Store
-The card is available in HACS (Home Assistant Community Store).
-
-[![Add HACS Repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Neisi&repository=B2500D-Card)
-
-#### Custom Repositories
-1. Open HACS  
-2. Frontend → top right menu → Custom Repositories → `Neisi/b2500d-card`  
-3. Select type: Dashboard  
-4. Install  
 
 ### Manual Installation (without HACS)
-1. Copy `b2500d-card.js` to `/config/www/`  
+1. Copy `b2500d-card-offline.js` to `/config/www/`  
 2. Add it in Lovelace:  
 ```yaml
 resources:
