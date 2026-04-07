@@ -1,5 +1,5 @@
 {
-  "name": "b2500d-card",
+  "name": "b2500d-card-offline",
   "version": "1.0.0",
   "description": "Custom card for Home Assistant",
   "type": "module",
